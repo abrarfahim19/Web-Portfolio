@@ -48,6 +48,7 @@ section{
     box-shadow: 10px 10px 40px grey;
     border-radius: 10px;
     height: 50%;
+    background-color:white;
 }
 
 a{
